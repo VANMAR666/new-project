@@ -1,0 +1,28 @@
+li{
+    padding: 10px;
+}
+.section-hot li:hover{
+    background-color: #1008fa;
+}
+.section-realty li:hover{
+    background-color: #f66129;
+}
+.section-hot li:hover a {
+    color: white;
+}
+.section-realty li:hover a{
+    color: white;
+}
+.section-realty li:hover {
+    background-color: #f66129;
+}
+h2{
+    color: white;
+    padding: 10px;
+}
+.section-hot h2{
+    background-color: #1008fa;
+}
+.section-realty h2{
+    background-color: #f66129;
+}
